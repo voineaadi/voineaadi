@@ -9,7 +9,7 @@
 ## 🎯 Professional Identity
 Systems Engineer with strong foundations in diagnostics, system reliability, endpoint hardening, and automation. Combines 20+ years of hands-on hardware and software engineering experience with a disciplined “Maintenance Mindset” and AI-assisted engineering workflows.[cite: 1]
 
-> "IT is the ultimate leverage. I don't follow the system; I architect my own. Every line of code is a brick in my fortress of freedom. From the Balkans to the Benelux, my logic remains universal."
+> "Deterministic infrastructure is the ultimate leverage. I don't just maintain systems; I architect resilient environments. Every line of automation is a building block for operational stability. Regardless of location or industry, engineering logic remains universal."
 
 ---
 
