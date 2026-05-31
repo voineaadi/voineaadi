@@ -1,8 +1,8 @@
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
-**EU Work Authorization | Driving License: Category B (Automatic)**[cite: 1]
+**EU Work Authorization | Driving License: Category B (Automatic)**
 
-📞 **+40 736 038 971** | ✉️ **voineaadi@gmail.com**[cite: 1]
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)[cite: 1]
+📞 **+40 736 038 971** | ✉️ **voineaadi@gmail.com**
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
 
 ---
 
@@ -19,7 +19,7 @@ Systems Engineer with strong foundations in diagnostics, system reliability, end
 * **⚪ The Firmware Resilience Milestone:** *A 20-year streak of zero failed critical BIOS/UEFI updates*, reflecting rigorous attention to technical documentation, power stability management, and hardware risk assessment.
 
 ### 🔒 Standardized Firmware Deployment Protocol
-* **⚪ Source Validation:** Enforce an absolute requirement to utilize only official, vendor-certified BIOS/firmware releases, completely rejecting unverified modifications.[cite: 1]
+* **⚪ Source Validation:** Enforce an absolute requirement to utilize only official, vendor-certified BIOS/firmware releases, completely rejecting unverified modifications.
 * **⚪ Documentation & Cross-Compatibility Audits:** Mandate an exhaustive review of official vendor documentation prior to execution, executing dual-verification checks on specific motherboard revisions and documented cross-compatibility constraints.
 * **⚪ Display Redundancy Architecture:** Where logistically possible, establish a secondary monitor or distinct alternative video interface to mitigate risk against firmware updates that reset default video output routing.
 * **⚪ Execution Integrity:** Maintain a strict, zero-exception constraint—never, under any circumstances, interrupt an active firmware or BIOS flash sequence.
