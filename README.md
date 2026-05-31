@@ -93,4 +93,4 @@ A dedicated, high-fidelity enterprise-grade environment used to simulate high-sc
 ---
 
 ## ⚖️ Governance & Compliance Note
-*Technical walkthroughs, security policy configurations, and sensitive network architecture diagrams are securely managed inside private repositories to maintain data privacy and strict network environment security. Full, audited access to these files can be explicitly provisioned upon request to engineering teams during technical evaluation phases.*[cite: 2]
+*Technical walkthroughs, security policy configurations, and sensitive network architecture diagrams are securely managed inside private repositories to maintain data privacy and strict network environment security. Full, audited access to these files can be explicitly provisioned upon request to engineering teams during technical evaluation phases.*
