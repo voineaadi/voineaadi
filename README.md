@@ -7,9 +7,9 @@
 ---
 
 ## 🎯 Professional Identity
-Systems Engineer with strong foundations in diagnostics, system reliability, endpoint hardening, and automation. Combines 20+ years of hands-on hardware and software engineering experience with a disciplined “Maintenance Mindset” and AI-assisted engineering workflows.
+Systems Engineer with strong foundations in diagnostics, system reliability, endpoint hardening, and automation. Combines 20+ years of hands-on hardware and software engineering experience with a disciplined “Maintenance Mindset” and specialized multi-agent AI engineering workflows.
 
-> "Deterministic infrastructure is the ultimate leverage. I don't just maintain systems; I architect resilient environments. Every line of automation is a building block for operational stability. Regardless of location or industry, engineering logic remains universal."
+> "Deterministic infrastructure is the ultimate leverage. I don't just maintain systems; I architect resilient environments. Every line of automation is a building block for operational stability. From the Balkans to the Benelux, engineering logic remains universal."
 
 ---
 
@@ -52,10 +52,10 @@ Systems Engineer with strong foundations in diagnostics, system reliability, end
 * **Container Isolation & Networking:** Docker container network setups establishing localized virtual bridge links.
 * **Micro-segmentation Vectors:** Strict isolation design architectures restricting automated AI communication layers from open network access vectors.
 
-### 🧠 AI-Assisted Engineering
-* **Incident Diagnostics Acceleration:** Advanced multi-agent prompt structures executing troubleshooting routines for rapid Root Cause Analysis (RCA).
-* **Telemetry Data Processing:** Automated Python log parsing configurations for high-speed Syslog/Event Viewer error summarization.
-* **Continuous Documentation:** Streamlining professional Markdown generation and system update reporting timelines.
+### 🧠 AI-Assisted Engineering & Orchestration
+* **Multi-Agent Pipeline Design:** Advanced capability running a daily multi-engine setup leveraging **6 core foundational agents (ChatGPT, Claude, Gemini, Copilot, Perplexity, Meta AI)**[cite: 1] combined with specialized development tools **(Google AI Studio, NotebookLM, Codex)**[cite: 1] to radically compress research lifecycles and accelerate script deployment.
+* **Cross-Engine Syntax Verification:** Utilizing separate LLM architectures to peer-review, lint, and validate infrastructure code cross-platform, minimizing syntax exceptions before deployment.
+* **Incident Diagnostics & Telemetry Parsing:** Rapid root-cause analysis (RCA) and high-speed parsing of Event Viewer tables and Syslog outputs using targeted contextual prompts.
 
 ---
 
