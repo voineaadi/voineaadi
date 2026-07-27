@@ -1,7 +1,6 @@
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
-**EU Work Authorization | Driving License: Category B (Automatic)**
+**Location: Netherlands | EU Work Authorization | Driving License: Category B (Automatic)**
 
-📞 **+40 736 038 971** | ✉️ **voineaadi@gmail.com**
 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
 
 ---
@@ -16,7 +15,7 @@ Systems Engineer with strong foundations in diagnostics, system reliability, end
 ## 📂 Infrastructure Engineering & Domain Longevity
 
 * **⚪ Long-Term Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, hardware architecture, and systems engineering.
-* **⚪ The Firmware Resilience Milestone:** *A 20-year streak of zero failed critical BIOS/UEFI updates*, reflecting rigorous attention to technical documentation, power stability management, and hardware risk assessment.
+* **⚪ The Firmware Resilience Milestone:** *Demonstrated track record of 100% successful mission-critical BIOS/UEFI firmware deployments over 20+ years, driven by strict power management, revision auditing, and pre-execution validation protocols.
 
 ### 🔒 Standardized Firmware Deployment Protocol
 * **⚪ Source Validation:** Enforce an absolute requirement to utilize only official, vendor-certified BIOS/firmware releases, completely rejecting unverified modifications.
