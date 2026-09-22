@@ -138,29 +138,29 @@ This structure faithfully reflects the transition from **Phase I (Core Baselines
 *(Mapped directly to `Systems Engineer Technologies.pdf` & The 5 Strategic Megatickets)*
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                   3-TIER TECHNICAL ARCHITECTURE                     │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│ TIER 1: CORE FOUNDATIONS & PRODUCTION-READY BASELINES (PHASES I & II)           │
-│ • OS Admin: Windows 10/11 Enterprise, Ubuntu Linux CLI, Dual-Boot Architecture │
-│ • OS Repair: SFC / DISM Servicing Stack Recovery & WinSxS Component Store Fix   │
-│ • Hardware & Power: 20-Yr BIOS Update Protocol, TED AVR Power Stabilization     │
-│ • Diagnostics: WinDbg Minidump Analysis, Event Viewer Error IDs, Syslog         │
-│ • Hardening & Scripting: LSASS RunAsPPL, RDP/USB Restrictions, PowerShell / Bash│
-├─────────────────────────────────────────────────────────────────────────────────┤
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                   3-TIER TECHNICAL ARCHITECTURE                                  │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ TIER 1: CORE FOUNDATIONS & PRODUCTION-READY BASELINES (PHASES I & II)            │
+│ • OS Admin: Windows 10/11 Enterprise, Ubuntu Linux CLI, Dual-Boot Architecture   │
+│ • OS Repair: SFC / DISM Servicing Stack Recovery & WinSxS Component Store Fix    │
+│ • Hardware & Power: 20-Yr BIOS Update Protocol, TED AVR Power Stabilization      │
+│ • Diagnostics: WinDbg Minidump Analysis, Event Viewer Error IDs, Syslog          │
+│ • Hardening & Scripting: LSASS RunAsPPL, RDP/USB Restrictions, PowerShell / Bash │
+├──────────────────────────────────────────────────────────────────────────────────┤
 │ TIER 2: ACTIVE INTEGRATION & LAB AUTOMATION PIPELINES (PHASES III & IV)          │
-│ • Hypervisor Core: Native Linux KVM, VirtualBox, Proxmox Multi-VM Sandboxes     │
-│ • Control Plane: Centralized Linux Control Engine -> Windows via WinRM/OpenSSH  │
-│ • Configuration Management: Ansible Cross-Platform Fleet Orchestration          │
+│ • Hypervisor Core: Native Linux KVM, VirtualBox, Proxmox Multi-VM Sandboxes      │
+│ • Control Plane: Centralized Linux Control Engine -> Windows via WinRM/OpenSSH   │
+│ • Configuration Management: Ansible Cross-Platform Fleet Orchestration           │
 │ • Containerization: Docker Microservices & Docker Compose Multi-Container Fabrics│
-│ • Anti-Drift & CI/CD: Dual-State Security, Anti-Drift Engine, GitHub Actions    │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│ TIER 3: TARGET ROADMAP, OBSERVABILITY & CLOUD-NATIVE (PHASES V & VI)            │
-│ • Infrastructure as Code (IaC): Declarative Terraform Cloud Provisioning        │
+│ • Anti-Drift & CI/CD: Dual-State Security, Anti-Drift Engine, GitHub Actions     │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ TIER 3: TARGET ROADMAP, OBSERVABILITY & CLOUD-NATIVE (PHASES V & VI)             │
+│ • Infrastructure as Code (IaC): Declarative Terraform Cloud Provisioning         │
 │ • Container Orchestration: Kubernetes (k3s), Helm Charts, Pod Liveness Lifecycles│
-│ • Observability: Prometheus Time-Series Scraping & Grafana Telemetry Dashboards │
-│ • MLOps & Resiliency: Python Telemetry Watchdogs, Drift Detection, Nuke Protocol│
-└─────────────────────────────────────────────────────────────────────────────────┘
+│ • Observability: Prometheus Time-Series Scraping & Grafana Telemetry Dashboards  │
+│ • MLOps & Resiliency: Python Telemetry Watchdogs, Drift Detection, Nuke Protocol │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
