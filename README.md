@@ -1,6 +1,6 @@
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
-**Location: Netherlands | EU Work Authorization | Driving License: Category B (Automatic)**
+**Location: Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱 (EU Work Authorization Ready, BSN & DigiD Established | Driving License: Category B - Automatic)**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
 
@@ -55,9 +55,9 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 | | **Security & Hardening** | LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW, Fail2Ban, Lynis (>85) |
 | | **Scripting & Hygiene** | PowerShell (VSS Backup Engines, System Hygiene Agents, Watchdogs), Bash automation |
 | **Tier 2: Active Integration** <br>*(Lab, Automation & Upskilling)* | **Virtualization & IaC** | Native Linux KVM, VirtualBox, Proxmox, Ansible (WinRM/OpenSSH), Terraform IaC |
-| | **Containers & Orchestration** | Docker microservices, Docker Compose multi-container fabrics, Kubernetes (`k3s`, Helm) |
-| | **Observability & Code** | Prometheus time-series scraping, Grafana dashboards, Netdata, Python telemetry watchdogs |
-| | **Active Learning Paths** | **Brilliant:** Programming & CS, Python, Logical Reasoning, Technology<br>**Boot.dev:** Python, Linux, Build a Booklet, Git, OOP, Go, HTTP Clients, SQL, HTTP Servers, Docker, Logging & Observability, AWS, CI/CD, Kubernetes, Web Security<br>**Coursera:** TBD |
+| | **Containers & Orchestration** | Docker *(upcoming integration)*, Docker Compose multi-container fabrics, Kubernetes (`k3s`, Helm) |
+| | **Observability & Code** | Prometheus time-series scraping, Grafana dashboards, Netdata, Python *(actively mastering fundamentals)*, Git *(actively mastering fundamentals)* |
+| | **Active Learning Paths** | **Brilliant:** Programming & CS, Python, Logical Reasoning, Technology<br>**Boot.dev:** Complete curriculum covering Python, Linux, Git, OOP, Go, HTTP Clients, SQL, HTTP Servers, Docker, Logging & Observability, AWS, CI/CD, Kubernetes, and Web Security<br>**Coursera:** TBD |
 
 ---
 
@@ -95,8 +95,6 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 
 ---
 
-* 🚀 **Current Focus:** Deepening Kubernetes cluster orchestration, Terraform cloud modules, and Python automation.
-* 📍 **Location Readiness:** Fully prepared for immediate on-site onboarding in Eindhoven (1–2 weeks notice).
-* 📫 **Reach Out:** [voineaadi@gmail.com](https://www.google.com/search?q=mailto%3Avoineaadi%40gmail.com) | [LinkedIn Profile](https://linkedin.com/in/adrian-florentin-voinea)
-
----
+* 🚀 **Current Focus:** Deepening Kubernetes cluster orchestration, Terraform modules, mastering Python & Git fundamentals, and preparing Docker integration.
+* 📍 **Location Readiness:** Currently based in Romania with all administrative relocation prerequisites fully secured (EU citizen, BSN, DigiD, Dutch bank account); ready to execute immediate on-site onboarding in Eindhoven upon offer confirmation (1–2 weeks notice).
+* 📫 **Reach Out:** [voineaadi@gmail.com](mailto:voineaadi@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/adrian-florentin-voinea)
