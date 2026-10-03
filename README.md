@@ -7,11 +7,19 @@
 
 ---
 
-## 🎯 Professional Identity
+## 🎯 Professional Identity & Background
 
-Systems Engineer with over 7 years of commercial IT consulting experience and 20+ years of self financed, independent, deep low-level hardware and systems architecture. Combines a disciplined **"Maintenance & Precision Mindset"** with a specialized multi-agent AI engineering workflow, focusing on deterministic infrastructure, zero-trust security postures, and end-to-end operational stability.
+Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows power-user execution** with a disciplined **"Maintenance & Precision Mindset"**. 
 
-> *"Deterministic infrastructure is the ultimate leverage. I don't just maintain systems; I architect resilient environments across a rigorous 9-layer stack—from clean electrical power and thermal envelopes to containerized orchestration. Every line of automation is a building block for absolute operational predictability."*
+> *"Deterministic stability is built from the metal up. My foundation isn't built on corporate server rooms from day one, but on two decades of relentless, independent hardware optimization, thermal-electrical engineering, deep OS tuning, and root-cause analysis. Every line of automation I build today bridges that rigorous bare-metal mastery with modern cloud-native infrastructure."*
+
+---
+
+## 📌 Clarifying the 20-Year Engineering Journey
+
+To maintain absolute professional transparency:
+* **The Independent Core (20+ Years):** My core evolution has been as an advanced hardware architect, high-end PC builder, and independent systems tuner. I specialized in deep component-level diagnostics, thermal management, overclocking, benchmark profiling, power stabilization, and comprehensive Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* in enterprise corporate server administration or large-scale Active Directory networking.
+* **The Professional Growth & Transition:** I bring this elite diagnostic rigor and "maintenance mindset" into professional IT operations, actively expanding my skill set through structured learning (Boot.dev, lab environments) into Linux administration, containerization, networking, and Infrastructure as Code.
 
 ---
 
@@ -31,9 +39,9 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 
 ---
 
-## 📂 Infrastructure Engineering & Domain Longevity
+## 📂 Hardware Mastery & Firmware Longevity
 
-* **⚪ Long-Term Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, hardware architecture, and systems engineering.
+* **⚪ Independent Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, custom PC tuning, and low-level system restoration.
 * **⚪ The Firmware Resilience Milestone:** Demonstrated track record of 100% successful mission-critical BIOS/UEFI firmware deployments over 20+ years, governed by strict validation protocols.
 
 ### 🔒 Standardized Firmware Deployment Protocol
@@ -49,15 +57,14 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 
 | Tier | Domain | Technologies & Tooling |
 | :--- | :--- | :--- |
-| **Tier 1: Core Foundations** <br>*(100% Production-Ready)* | **Systems & OS Admin** | Windows 10/11 Enterprise, Ubuntu/Linux CLI, Dual-Boot Architecture, Hyper-V, macOS Admin |
-| | **Diagnostics & RCA** | `sfc` / `DISM` OS servicing stack repair, WinSxS recovery, WinDbg dump analysis, Event Viewer, Syslog |
-| | **Hardware & Power** | Component isolation, thermal management, ZUBR TrueRMS voltage protection, Brennenstuhl OVP surge suppression, TED AVR stabilization, VFI Double-Conversion UPS topology |
+| **Tier 1: Core Foundations** <br>*(100% Production-Ready)* | **OS & Advanced Diagnostics** | Windows 10/11 Enterprise administration, `sfc` / `DISM` OS servicing stack repair, WinSxS recovery, WinDbg dump analysis, Event Viewer, Syslog, Sysinternals (Process Explorer, Autoruns), Registry tuning |
+| | **Hardware, Power & Thermal** | Component isolation, thermal management, ZUBR TrueRMS voltage protection, Brennenstuhl OVP surge suppression, TED AVR stabilization, VFI Double-Conversion UPS topology |
 | | **Security & Hardening** | LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW, Fail2Ban, Lynis (>85) |
-| | **Scripting & Hygiene** | PowerShell (VSS Backup Engines, System Hygiene Agents, Watchdogs), Bash automation |
-| **Tier 2: Active Integration** <br>*(Lab, Automation & Upskilling)* | **Virtualization & IaC** | Native Linux KVM, VirtualBox, Proxmox, Ansible (WinRM/OpenSSH), Terraform IaC |
-| | **Containers & Orchestration** | Docker *(upcoming integration)*, Docker Compose multi-container fabrics, Kubernetes (`k3s`, Helm) |
-| | **Observability & Code** | Prometheus time-series scraping, Grafana dashboards, Netdata, Python *(actively mastering fundamentals)*, Git *(actively mastering fundamentals)* |
-| | **Active Learning Paths** | **Brilliant:** Programming & CS, Python, Logical Reasoning, Technology<br>**Boot.dev:** Complete curriculum covering Python, Linux, Git, OOP, Go, HTTP Clients, SQL, HTTP Servers, Docker, Logging & Observability, AWS, CI/CD, Kubernetes, and Web Security<br>**Coursera:** TBD |
+| | **Scripting & Automation** | PowerShell (VSS Backup Engines, System Hygiene Agents, Watchdogs), Bash automation |
+| **Tier 2: Active Integration** <br>*(Lab, Automation & Upskilling)* | **Linux & Virtualization** | Ubuntu/Linux CLI, Native Linux KVM, VirtualBox, Proxmox, Git (version control fundamentals) |
+| | **Containers & IaC** | Docker *(upcoming integration)*, Docker Compose multi-container fabrics, Kubernetes (`k3s`, Helm), Terraform IaC |
+| | **Observability & Code** | Prometheus time-series scraping, Grafana dashboards, Netdata, Python *(actively mastering fundamentals via structured paths)* |
+| | **Active Learning Paths** | **Brilliant:** Programming & CS, Python, Logical Reasoning, Technology<br>**Boot.dev:** Complete curriculum covering Python, Linux, Git, OOP, Go, HTTP Clients, SQL, HTTP Servers, Docker, Logging & Observability, AWS, CI/CD, Kubernetes, and Web Security |
 
 ---
 
@@ -106,7 +113,7 @@ An engineering overview of multi-stage electrical mitigation designed to protect
 
 ---
 
-* 🚀 **Current Focus:** Deepening Kubernetes cluster orchestration, Terraform modules, mastering Python & Git fundamentals, and preparing Docker integration.
+* 🚀 **Current Focus:** Deepening Linux administration, Git workflows, Python programming fundamentals, Kubernetes cluster orchestration, and Terraform modules.
 * 📍 **Location Readiness:** Currently based in Romania with all administrative relocation prerequisites fully secured (EU citizen, BSN, DigiD, Dutch bank account); ready to execute immediate on-site onboarding in Eindhoven upon offer confirmation (1–2 weeks notice).
 * 📫 **Reach Out:** [voineaadi@gmail.com](mailto:voineaadi@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/adrian-florentin-voinea)
 
