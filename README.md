@@ -1,9 +1,3 @@
----
-
----
-
----
-
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
 **Location: Netherlands | EU Work Authorization | Driving License: Category B (Automatic)**
