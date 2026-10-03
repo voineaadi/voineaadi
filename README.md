@@ -1,4 +1,9 @@
 ---
+title: "Portfolio"
+layout: default
+---
+
+---
 
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
