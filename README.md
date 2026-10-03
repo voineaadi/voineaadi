@@ -1,7 +1,3 @@
-Am transformat totul într-un format complet curat în **Markdown** (inclusiv secțiunea de putere, pe care am condensat-o și schematizat-o într-un stil extrem de elegant și aerisit, fără a pierde rigoarea tehnică).
-
-Iată întregul portofoliu, gata de copiat direct în fișierul `README.md` de pe GitHub:
-
 ```markdown
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
