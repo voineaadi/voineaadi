@@ -1,3 +1,8 @@
+Am transformat totul într-un format complet curat în **Markdown** (inclusiv secțiunea de putere, pe care am condensat-o și schematizat-o într-un stil extrem de elegant și aerisit, fără a pierde rigoarea tehnică).
+
+Iată întregul portofoliu, gata de copiat direct în fișierul `README.md` de pe GitHub:
+
+```markdown
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
 **Location: Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱 (EU Work Authorization Ready, BSN & DigiD Established | Driving License: Category B - Automatic)**
@@ -8,7 +13,7 @@
 
 ## 🎯 Professional Identity
 
-Systems Engineer with over 7 years of commercial IT consulting experience and 20+ years of deep low-level hardware and systems architecture. Combines a disciplined **"Maintenance & Precision Mindset"** with a specialized multi-agent AI engineering workflow, focusing on deterministic infrastructure, zero-trust security postures, and end-to-end operational stability.
+Systems Engineer with over 7 years of commercial IT consulting experience and 20+ years of self financed, independent, deep low-level hardware and systems architecture. Combines a disciplined **"Maintenance & Precision Mindset"** with a specialized multi-agent AI engineering workflow, focusing on deterministic infrastructure, zero-trust security postures, and end-to-end operational stability.
 
 > *"Deterministic infrastructure is the ultimate leverage. I don't just maintain systems; I architect resilient environments across a rigorous 9-layer stack—from clean electrical power and thermal envelopes to containerized orchestration. Every line of automation is a building block for absolute operational predictability."*
 
@@ -42,7 +47,6 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 * **Display Redundancy Architecture:** Establish secondary monitors or alternative video interfaces to mitigate risks against firmware updates resetting default video outputs.
 * **Execution Integrity:** Strict zero-exception constraint—never interrupt an active firmware or BIOS flash sequence.
 
-
 ---
 
 ## 🛠️ Dual-Tier Technical Inventory & Architecture
@@ -51,7 +55,7 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 | :--- | :--- | :--- |
 | **Tier 1: Core Foundations** <br>*(100% Production-Ready)* | **Systems & OS Admin** | Windows 10/11 Enterprise, Ubuntu/Linux CLI, Dual-Boot Architecture, Hyper-V, macOS Admin |
 | | **Diagnostics & RCA** | `sfc` / `DISM` OS servicing stack repair, WinSxS recovery, WinDbg dump analysis, Event Viewer, Syslog |
-| | **Hardware & Power** | Component isolation, thermal management, TED 2100VA AVR power stabilization, surge suppression |
+| | **Hardware & Power** | Component isolation, thermal management, ZUBR TrueRMS voltage protection, Brennenstuhl OVP surge suppression, TED AVR stabilization, VFI Double-Conversion UPS topology |
 | | **Security & Hardening** | LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW, Fail2Ban, Lynis (>85) |
 | | **Scripting & Hygiene** | PowerShell (VSS Backup Engines, System Hygiene Agents, Watchdogs), Bash automation |
 | **Tier 2: Active Integration** <br>*(Lab, Automation & Upskilling)* | **Virtualization & IaC** | Native Linux KVM, VirtualBox, Proxmox, Ansible (WinRM/OpenSSH), Terraform IaC |
@@ -61,6 +65,17 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 
 ---
 
+## ⚡ Power Resilience Architecture (V1 ➔ V2 ➔ V3 Evolution)
+
+An engineering overview of multi-stage electrical mitigation designed to protect computational assets across unstable grids.
+
+### Architectural Evolution Stages
+* **V1 — Legacy Baseline (Inherited):** Basic consumer surge protection + aged line-interactive UPS. Vulnerable to severe grid faults (e.g., floating neutrals).
+* **V2 — Current Resilience Stack (Romania):** Engineered for harsh countryside grids via millisecond hardware cutoffs and multi-stage filtering.
+  * *Chain Topology:* `Wall ➔ ZUBR R116Y Relay ➔ External Surge Protector ➔ Brennenstuhl Premium-Line OVP ➔ TED 2100SVC Stabilizer ➔ CyberPower UPS ➔ Low-Stress Lab Load (20–700W)`
+* **V3 — Enterprise Datacenter Standard (Netherlands):** Whole-house structural upgrade featuring in-wall electrolytic copper wiring, DIN-rail ZUBR D2 relays, Type 1/2 SPDs, and professional VFI Double-Conversion Online UPS infrastructure (e.g., *PowerWalker VFI 1500 ICT IoT* or *TED Rackmount 3000VA / 2700W* at 7–25% thermal headroom).
+
+---
 
 ## 🧠 AI-Assisted Engineering & Orchestration
 
@@ -98,3 +113,5 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 * 🚀 **Current Focus:** Deepening Kubernetes cluster orchestration, Terraform modules, mastering Python & Git fundamentals, and preparing Docker integration.
 * 📍 **Location Readiness:** Currently based in Romania with all administrative relocation prerequisites fully secured (EU citizen, BSN, DigiD, Dutch bank account); ready to execute immediate on-site onboarding in Eindhoven upon offer confirmation (1–2 weeks notice).
 * 📫 **Reach Out:** [voineaadi@gmail.com](mailto:voineaadi@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/adrian-florentin-voinea)
+
+```
