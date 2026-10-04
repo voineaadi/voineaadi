@@ -1,15 +1,23 @@
+Iată versiunea complet finisată, optimizată și curățată pentru GitHub. Am ajustat liniile lungi de text pe blocuri verticale ordonate, eliminând complet orice bară de scroll orizontală și păstrând neatinsă profunzimea tehnică, tonul tău ferm și eleganța structurii:
+
 ```markdown
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA | Systems Engineer
+
 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
 
-**Location: Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱 (EU Work Authorization Ready, BSN & DigiD Established | Driving License: Category B - Automatic)**
+**Location:** Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱  
+*(EU Work Authorization Ready, BSN & DigiD Established \| Driving License: Category B - Automatic)*
 
 **Platform-Agnostic Systems Engineering & Infrastructure Reliability**
 
+---
 
 ## 🎯 Professional Identity, Architectural Vision & Background
+
 Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows power-user execution** with a disciplined **"Maintenance & Precision Mindset"**. 
+
 > *"Deterministic stability is built from the metal up. My foundation isn't built on corporate server rooms from day one, but on two decades of relentless, independent hardware optimization, thermal-electrical engineering, deep OS tuning, and root-cause analysis. Every line of automation and repository update I push today bridges that rigorous bare-metal mastery with modern cloud-native infrastructure."*
+
 Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision and operational rigor. 
 * **Current Stack Mastery:** Deep, production-ready mastery on **Windows** environments, with active daily expansion across **Linux (CLI/KVM)** and **macOS** administration.
 * **Near-Future Expansion:** Actively integrating cloud-native toolchains, container orchestration, and automated pipelines via a rigorous home lab setup and AI-accelerated learning.
@@ -18,8 +26,10 @@ Striving to become truly **platform-agnostic**, I build resilient infrastructure
 
 ## 📌 Clarifying the 20-Year Engineering Journey
 
-* **The Independent Core (20+ Years):** My core evolution has been as an advanced hardware architect, high-end PC builder, and independent systems tuner. I specialized in deep component-level diagnostics, thermal management, overclocking, benchmark profiling, power stabilization, and comprehensive Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* in enterprise corporate server administration or large-scale Active Directory networking.
-* **The Professional Growth & Transition:** I bring this elite diagnostic rigor and "maintenance mindset" into professional IT operations, actively expanding my skill set through structured learning and hands-on execution into Linux administration, containerization, networking, version control, and Infrastructure as Code.
+* **The Independent Core (20+ Years):**  
+  My core evolution has been as an advanced hardware architect, high-end PC builder, and independent systems tuner. I specialized in deep component-level diagnostics, thermal management, overclocking, benchmark profiling, power stabilization, and comprehensive Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* in enterprise corporate server administration or large-scale Active Directory networking.
+* **The Professional Growth & Transition:**  
+  I bring this elite diagnostic rigor and "maintenance mindset" into professional IT operations, actively expanding my skill set through structured learning and hands-on execution into Linux administration, containerization, networking, version control, and Infrastructure as Code.
 
 ---
 
@@ -27,33 +37,42 @@ Striving to become truly **platform-agnostic**, I build resilient infrastructure
 
 Grounded in industrial-grade reliability engineering, every system under my management adheres to a comprehensive 9-layer stability framework:
 
-1. **Electrical Infrastructure Layer:** Clean power delivery via Type 1/2 SPDs, ZUBR voltage cutoff relays, servo stabilizers/TED units, and VFI online double-conversion UPS for waveform regeneration and minimal VRM stress.
-2. **Hardware Architecture Layer:** Workstation-grade motherboards with robust VRMs, high-efficiency low-ripple PSUs, and engineered component selection for sustained peak performance.
-3. **Thermal Stability Layer:** Precision airflow design, VRM/SSD controller cooling, and noise-aware fan curves preventing thermal throttling.
-4. **Storage & I/O Stability Layer:** Optimized NVMe cooling, minimal background disk churn, and clean controller power ensuring predictable I/O latency.
-5. **Cybersecurity & System Hygiene Layer:** LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW/Fail2Ban, and Lynis-audited Linux baselines.
-6. **Software Minimalism Layer:** Zero-bloat philosophy eliminating telemetry-heavy software, unnecessary drivers, and background noise to maximize sustained system boost.
-7. **Redundancy & Failure-Mode Mitigation Layer:** Multi-layered electrical, thermal, and software safeguards designed to eliminate single points of failure (SPOF).
-8. **Network Stability Layer:** Hardened network stacks, strict DNS hygiene, micro-segmentation, and minimal packet jitter.
-9. **System Consistency Layer:** Unified integration ensuring the entire environment delivers predictable, frictionless performance.
+1. **Electrical Infrastructure Layer:**  
+   Clean power delivery via Type 1/2 SPDs, ZUBR voltage cutoff relays, servo stabilizers/TED units, and VFI online double-conversion UPS for waveform regeneration and minimal VRM stress.
+2. **Hardware Architecture Layer:**  
+   Workstation-grade motherboards with robust VRMs, high-efficiency low-ripple PSUs, and engineered component selection for sustained peak performance.
+3. **Thermal Stability Layer:**  
+   Precision airflow design, VRM/SSD controller cooling, and noise-aware fan curves preventing thermal throttling.
+4. **Storage & I/O Stability Layer:**  
+   Optimized NVMe cooling, minimal background disk churn, and clean controller power ensuring predictable I/O latency.
+5. **Cybersecurity & System Hygiene Layer:**  
+   LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW/Fail2Ban, and Lynis-audited Linux baselines.
+6. **Software Minimalism Layer:**  
+   Zero-bloat philosophy eliminating telemetry-heavy software, unnecessary drivers, and background noise to maximize sustained system boost.
+7. **Redundancy & Failure-Mode Mitigation Layer:**  
+   Multi-layered electrical, thermal, and software safeguards designed to eliminate single points of failure (SPOF).
+8. **Network Stability Layer:**  
+   Hardened network stacks, strict DNS hygiene, micro-segmentation, and minimal packet jitter.
+9. **System Consistency Layer:**  
+   Unified integration ensuring the entire environment delivers predictable, frictionless performance.
 
 ---
 
 ## 📂 Hardware Mastery & Firmware Longevity
 
-* **⚪ Independent Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, custom PC tuning, and low-level system restoration.
-* **⚪ The Firmware Resilience Milestone:** Demonstrated track record of 100% successful mission-critical BIOS/UEFI firmware deployments over 20+ years, governed by strict validation protocols.
+* **Independent Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, custom PC tuning, and low-level system restoration.
+* **The Firmware Resilience Milestone:** Demonstrated track record of 100% successful mission-critical BIOS/UEFI firmware deployments over 20+ years, governed by strict validation protocols.
 
 ### 🔒 Standardized Firmware Deployment Protocol
 
 * **Source Validation:** Enforce an absolute requirement to utilize only official, vendor-certified BIOS/firmware releases.
 * **Documentation & Cross-Compatibility Audits:** Mandate exhaustive review of official vendor documentation and dual-verification of motherboard revisions.
 * **Display Redundancy Architecture:** Establish secondary monitors or alternative video interfaces to mitigate risks against firmware updates resetting default video outputs.
-* **Execution Integrity:** Strict zero-exception constraint—never interrupt an active firmware or BIOS flash sequence.
+* **Execution Integrity:** Strict zero-exception constraint — never interrupt an active firmware or BIOS flash sequence.
 
 ---
 
-## 🛠️️ Dual-Tier Technical Inventory & Architecture
+## 🛠 Dual-Tier Technical Inventory & Architecture
 
 | Tier | Domain | Technologies & Tooling |
 | :--- | :--- | :--- |
@@ -75,7 +94,7 @@ An engineering overview of multi-stage electrical mitigation designed to protect
 
 ### Architectural Evolution Stages
 * **V1 — Legacy Baseline (Inherited):** Basic consumer surge protection + aged line-interactive UPS. Vulnerable to severe grid faults (e.g., floating neutrals).
-* **V2 — Current Resilience Stack (Romania):** Engineered for harsh countryside grids via millisecond hardware cutoffs and multi-stage filtering.
+* **V2 — Current Resilience Stack (Romania):** Engineered for harsh countryside grids via millisecond hardware cutoffs and multi-stage filtering.  
   * *Chain Topology:* `Wall ➔ ZUBR R116Y Relay ➔ External Surge Protector ➔ Brennenstuhl Premium-Line OVP ➔ TED 2100SVC Stabilizer ➔ CyberPower UPS ➔ Low-Stress Lab Load (20–700W)`
 * **V3 — Enterprise Datacenter Standard (Netherlands):** Whole-house structural upgrade featuring in-wall electrolytic copper wiring, DIN-rail ZUBR D2 relays, Type 1/2 SPDs, and professional VFI Double-Conversion Online UPS infrastructure (e.g., *PowerWalker VFI 1500 ICT IoT* or *TED Rackmount 3000VA / 2700W* at 7–25% thermal headroom).
 
