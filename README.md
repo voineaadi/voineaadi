@@ -1,74 +1,39 @@
-Iată versiunea complet finisată, optimizată și curățată pentru GitHub. Am ajustat liniile lungi de text pe blocuri verticale ordonate, eliminând complet orice bară de scroll orizontală și păstrând neatinsă profunzimea tehnică, tonul tău ferm și eleganța structurii:
-
-```markdown
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA | Systems Engineer
-
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
-
-**Location:** Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱  
-*(EU Work Authorization Ready, BSN & DigiD Established \| Driving License: Category B - Automatic)*
-
-**Platform-Agnostic Systems Engineering & Infrastructure Reliability**
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)  
+**Location:** Romania ➔ Eindhoven, Netherlands *(EU Work Authorization Ready | BSN, DigiD & Bank Account Established)* | **Platform-Agnostic Systems Engineering**
 
 ---
 
-## 🎯 Professional Identity, Architectural Vision & Background
-
-Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows power-user execution** with a disciplined **"Maintenance & Precision Mindset"**. 
-
-> *"Deterministic stability is built from the metal up. My foundation isn't built on corporate server rooms from day one, but on two decades of relentless, independent hardware optimization, thermal-electrical engineering, deep OS tuning, and root-cause analysis. Every line of automation and repository update I push today bridges that rigorous bare-metal mastery with modern cloud-native infrastructure."*
-
-Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision and operational rigor. 
-* **Current Stack Mastery:** Deep, production-ready mastery on **Windows** environments, with active daily expansion across **Linux (CLI/KVM)** and **macOS** administration.
-* **Near-Future Expansion:** Actively integrating cloud-native toolchains, container orchestration, and automated pipelines via a rigorous home lab setup and AI-accelerated learning.
+## 🎯 Professional Identity & Vision
+Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows execution** with a disciplined **"Maintenance & Precision Mindset"**. Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision.
+* **Current Stack Mastery:** Deep production-ready mastery on **Windows**, with active daily expansion across **Linux (CLI/KVM)** and **macOS**.
+* **Near-Future Expansion:** Integrating cloud-native toolchains, container orchestration, and automated pipelines via a rigorous home lab setup.
 
 ---
 
-## 📌 Clarifying the 20-Year Engineering Journey
-
-* **The Independent Core (20+ Years):**  
-  My core evolution has been as an advanced hardware architect, high-end PC builder, and independent systems tuner. I specialized in deep component-level diagnostics, thermal management, overclocking, benchmark profiling, power stabilization, and comprehensive Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* in enterprise corporate server administration or large-scale Active Directory networking.
-* **The Professional Growth & Transition:**  
-  I bring this elite diagnostic rigor and "maintenance mindset" into professional IT operations, actively expanding my skill set through structured learning and hands-on execution into Linux administration, containerization, networking, version control, and Infrastructure as Code.
+## 📌 The 20-Year Engineering Journey
+* **The Independent Core (20+ Years):** Advanced hardware architect and systems tuner specializing in component diagnostics, thermal management, power stabilization, and Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* large-scale corporate Active Directory networking.
+* **The Professional Growth & Transition:** Bringing elite diagnostic rigor into IT operations, actively expanding into Linux administration, containerization, networking, version control, and IaC.
 
 ---
 
 ## 🏗️ The 9-Layer Sovereign System Architecture
-
-Grounded in industrial-grade reliability engineering, every system under my management adheres to a comprehensive 9-layer stability framework:
-
-1. **Electrical Infrastructure Layer:**  
-   Clean power delivery via Type 1/2 SPDs, ZUBR voltage cutoff relays, servo stabilizers/TED units, and VFI online double-conversion UPS for waveform regeneration and minimal VRM stress.
-2. **Hardware Architecture Layer:**  
-   Workstation-grade motherboards with robust VRMs, high-efficiency low-ripple PSUs, and engineered component selection for sustained peak performance.
-3. **Thermal Stability Layer:**  
-   Precision airflow design, VRM/SSD controller cooling, and noise-aware fan curves preventing thermal throttling.
-4. **Storage & I/O Stability Layer:**  
-   Optimized NVMe cooling, minimal background disk churn, and clean controller power ensuring predictable I/O latency.
-5. **Cybersecurity & System Hygiene Layer:**  
-   LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW/Fail2Ban, and Lynis-audited Linux baselines.
-6. **Software Minimalism Layer:**  
-   Zero-bloat philosophy eliminating telemetry-heavy software, unnecessary drivers, and background noise to maximize sustained system boost.
-7. **Redundancy & Failure-Mode Mitigation Layer:**  
-   Multi-layered electrical, thermal, and software safeguards designed to eliminate single points of failure (SPOF).
-8. **Network Stability Layer:**  
-   Hardened network stacks, strict DNS hygiene, micro-segmentation, and minimal packet jitter.
-9. **System Consistency Layer:**  
-   Unified integration ensuring the entire environment delivers predictable, frictionless performance.
+1. **Electrical:** Type 1/2 SPDs, ZUBR voltage cutoffs, TED AVRs, and VFI double-conversion UPS.
+2. **Hardware:** Workstation-grade motherboards, robust VRMs, and low-ripple PSUs.
+3. **Thermal:** Precision airflow, VRM/SSD cooling, and noise-aware fan curves.
+4. **Storage & I/O:** NVMe cooling and clean controller power for predictable latency.
+5. **Cybersecurity:** LSASS RunAsPPL, RDP/USB hardening, UFW/Fail2Ban, and Lynis audits.
+6. **Software:** Zero-bloat philosophy eliminating unnecessary drivers and telemetry.
+7. **Redundancy:** Multi-layered safeguards eliminating single points of failure (SPOF).
+8. **Network:** Hardened stacks, DNS hygiene, and micro-segmentation.
+9. **Consistency:** Unified integration ensuring predictable, frictionless performance.
 
 ---
 
 ## 📂 Hardware Mastery & Firmware Longevity
-
-* **Independent Domain Expertise:** Over 20 years of continuous execution in technical diagnostics, custom PC tuning, and low-level system restoration.
-* **The Firmware Resilience Milestone:** Demonstrated track record of 100% successful mission-critical BIOS/UEFI firmware deployments over 20+ years, governed by strict validation protocols.
-
-### 🔒 Standardized Firmware Deployment Protocol
-
-* **Source Validation:** Enforce an absolute requirement to utilize only official, vendor-certified BIOS/firmware releases.
-* **Documentation & Cross-Compatibility Audits:** Mandate exhaustive review of official vendor documentation and dual-verification of motherboard revisions.
-* **Display Redundancy Architecture:** Establish secondary monitors or alternative video interfaces to mitigate risks against firmware updates resetting default video outputs.
-* **Execution Integrity:** Strict zero-exception constraint — never interrupt an active firmware or BIOS flash sequence.
+* **Domain Expertise:** 20+ years in technical diagnostics, custom tuning, and system restoration.
+* **Firmware Milestone:** 100% success rate across mission-critical BIOS/UEFI updates.
+* **Deployment Protocol:** *Source Validation ➔ Documentation & Rev Audits ➔ Display Redundancy ➔ Zero-Exception Execution Integrity.*
 
 ---
 
@@ -76,65 +41,34 @@ Grounded in industrial-grade reliability engineering, every system under my mana
 
 | Tier | Domain | Technologies & Tooling |
 | :--- | :--- | :--- |
-| **Tier 1: Core Foundations** <br>*(100% Production-Ready)* | **OS & Advanced Diagnostics** | Windows 10/11 Enterprise administration, `sfc` / `DISM` OS servicing stack repair, WinSxS recovery, WinDbg dump analysis, Event Viewer, Syslog, Sysinternals (Process Explorer, Autoruns), Registry tuning |
-| | **Hardware, Power & Thermal** | Component isolation, thermal management, ZUBR TrueRMS voltage protection, Brennenstuhl OVP surge suppression, TED AVR stabilization, VFI Double-Conversion UPS topology |
-| | **Security & Hardening** | LSASS RunAsPPL protection, RDP attack surface reduction, USB restrictions, UFW, Fail2Ban, Lynis (>85) |
-| | **Scripting & Automation** | PowerShell (VSS Backup Engines, System Hygiene Agents, Watchdogs), Bash automation |
-| **Tier 2: Active Integration & Real-Time Execution** <br>*(Lab, Version Control & Upskilling)* | **Version Control & Collaboration** | **Git & GitHub** (Active daily utilization for repository architecture, branch management, issue tracking, and real-time public documentation of system engineering workflows) |
-| | **Linux & Virtualization** | Ubuntu/Linux CLI, Native Linux KVM, VirtualBox, Proxmox |
-| | **Containers & IaC** | Docker, Docker Compose multi-container fabrics, Kubernetes (`k3s`, Helm), Terraform IaC |
-| | **Observability & Code** | Prometheus time-series scraping, Grafana dashboards, Netdata, Python *(actively mastering fundamentals via structured paths)* |
-| | **Active Learning Paths** | **Coursera:** TBD<br>**Brilliant:** Programming & CS, Python, Logical Reasoning, Technology<br>**Boot.dev:** Complete curriculum covering Python, Linux, Git, OOP, Go, HTTP Clients, SQL, HTTP Servers, Docker, Logging & Observability, AWS, CI/CD, Kubernetes, and Web Security |
+| **Tier 1: Core Foundations** <br>*(100% Production-Ready)* | **Diagnostics & OS** | Windows 10/11 Enterprise, `sfc`/`DISM` WinSxS recovery, WinDbg, Event Viewer, Sysinternals (Process Explorer, Autoruns) |
+| | **Hardware & Power** | Component isolation, ZUBR TrueRMS protection, Brennenstuhl OVP, TED AVR, VFI UPS topology |
+| | **Security & Scripting** | LSASS RunAsPPL, RDP/USB hardening, UFW, Fail2Ban, PowerShell (VSS/Watchdogs), Bash |
+| **Tier 2: Active Integration** <br>*(Lab & Upskilling)* | **Linux & Version Control** | Ubuntu CLI, Native Linux KVM, VirtualBox, Proxmox, **Git & GitHub** (daily workflows) |
+| | **Containers & IaC** | Docker, Docker Compose, Kubernetes (`k3s`, Helm), Terraform IaC |
+| | **Observability & Paths** | Prometheus, Grafana, Netdata, Python |
+| | **Active Learning** | **Boot.dev** (Python, Linux, Docker, AWS, K8s, CI/CD), **Brilliant** (Logic & CS), **Coursera** |
 
 ---
 
-## ⚡ Power Resilience Architecture (V1 ➔ V2 ➔ V3 Evolution)
-
-An engineering overview of multi-stage electrical mitigation designed to protect computational assets across unstable grids.
-
-### Architectural Evolution Stages
-* **V1 — Legacy Baseline (Inherited):** Basic consumer surge protection + aged line-interactive UPS. Vulnerable to severe grid faults (e.g., floating neutrals).
-* **V2 — Current Resilience Stack (Romania):** Engineered for harsh countryside grids via millisecond hardware cutoffs and multi-stage filtering.  
-  * *Chain Topology:* `Wall ➔ ZUBR R116Y Relay ➔ External Surge Protector ➔ Brennenstuhl Premium-Line OVP ➔ TED 2100SVC Stabilizer ➔ CyberPower UPS ➔ Low-Stress Lab Load (20–700W)`
-* **V3 — Enterprise Datacenter Standard (Netherlands):** Whole-house structural upgrade featuring in-wall electrolytic copper wiring, DIN-rail ZUBR D2 relays, Type 1/2 SPDs, and professional VFI Double-Conversion Online UPS infrastructure (e.g., *PowerWalker VFI 1500 ICT IoT* or *TED Rackmount 3000VA / 2700W* at 7–25% thermal headroom).
+## ⚡ Power Resilience Architecture
+* **V1 (Legacy Baseline):** Basic consumer surge protection + aged line-interactive UPS.
+* **V2 (Current Romania Stack):** `Wall ➔ ZUBR R116Y Relay ➔ Surge Protector ➔ Brennenstuhl OVP ➔ TED 2100SVC Stabilizer ➔ CyberPower UPS ➔ Lab Load`
+* **V3 (Enterprise NL Target):** In-wall copper wiring, DIN-rail ZUBR D2, Type 1/2 SPDs, and professional VFI Online UPS.
 
 ---
 
-## 🧠 AI-Assisted Engineering & Orchestration
-
-* **Multi-Agent Pipeline Design:** Advanced daily operation utilizing **6 core foundational agents (ChatGPT, Claude, Gemini, Copilot, Perplexity, Meta AI)** combined with specialized environments **(Google AI Studio, NotebookLM, Codex)** to radically compress research lifecycles and accelerate script deployment.
-* **Cross-Engine Syntax Verification:** Peer-reviewing and linting infrastructure code across separate LLM architectures to eliminate syntax exceptions prior to deployment.
-* **Incident Diagnostics & Telemetry Parsing:** Rapid root-cause analysis (RCA) and high-speed parsing of system logs using targeted contextual engineering prompts.
+## 🧠 AI-Assisted Engineering & Home Lab Ecosystem
+* **AI Orchestration:** Daily utilization of 6 foundational agents (ChatGPT, Claude, Gemini, Copilot, Perplexity, Meta AI) and **Google AI Studio** for cross-engine syntax validation and rapid RCA parsing.
+* **Home Lab (2026):** Multi-VM virtual sandboxes, Grafana/Prometheus telemetry dashboards, autonomous backup engines, and automated security hardening pipelines.
 
 ---
 
-## 🔬 Home Lab Ecosystem (2026 Edition)
-
-* **Multi-VM Virtual Sandbox & Segmented Networks:** Isolated testing layers modeling real-world enterprise topologies.
-* **Observability Dashboards:** Real-time health and telemetry profiling via Grafana, Prometheus, and Netdata.
-* **The Automation Trio:** Autonomous Backup Engines, System Hygiene Agents, and Service Watchdogs.
-* **Infrastructure as Code (IaC):** Repeatable instance configuration testing using Terraform and Vagrant blueprints.
-* **Container Architecture:** Localized Dockerized services and automated security hardening validation pipelines.
+## 💎 Core Strengths & Governance
+* **Strengths:** Acute incident resilience, strong investigative discipline, structured documentation, and stability-first philosophy.
+* **Compliance Note:** Technical walkthroughs and sensitive network diagrams are managed in private repositories; audited access available upon request during technical evaluation.
 
 ---
-
-## 💎 Core Engineering Strengths
-
-* High resilience and performance under acute system incident conditions.
-* Strong, highly focused self-learning and investigative engineering discipline.
-* Structured documentation mindset ensuring crystal-clear knowledge transfer.
-* Stability-first engineering philosophy prioritizing system predictability over all else.
-
----
-
-## ⚖️ Governance & Compliance Note
-
-*Technical walkthroughs, security policy configurations, and sensitive network architecture diagrams are securely managed inside private repositories to maintain data privacy and strict network environment security. Full, audited access to these files can be explicitly provisioned upon request to engineering teams during technical evaluation phases.*
-
----
-
-* 🚀 **Current Focus:** Deepening Linux administration, Git workflows, Python programming fundamentals, Kubernetes cluster orchestration, and Terraform modules.
-* 📍 **Location Readiness:** Currently based in Romania with all administrative relocation prerequisites fully secured (EU citizen, BSN, DigiD, Dutch bank account); ready to execute immediate on-site onboarding in Eindhoven upon offer confirmation (1–2 weeks notice).
+* 🚀 **Current Focus:** Deepening Linux administration, Git workflows, Python, Kubernetes, and Terraform.  
+* 📍 **Location Readiness:** Based in Romania with all Dutch relocation prerequisites secured (BSN, DigiD, Bank Account); ready for immediate on-site onboarding in Eindhoven (1–2 weeks notice).  
 * 📫 **Reach Out:** [voineaadi@gmail.com](mailto:voineaadi@gmail.com) | [LinkedIn Profile](https://linkedin.com/in/adrian-florentin-voinea)
-
-```
