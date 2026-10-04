@@ -1,23 +1,23 @@
 ```markdown
-# 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
+# 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA | Systems Engineer
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
 
 **Location: Currently Romania 🇷🇴 ➔ Relocating to Eindhoven, Netherlands 🇳🇱 (EU Work Authorization Ready, BSN & DigiD Established | Driving License: Category B - Automatic)**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)
+**Platform-Agnostic Systems Engineering & Infrastructure Reliability**
 
----
 
-## 🎯 Professional Identity & Background
-
+## 🎯 Professional Identity, Architectural Vision & Background
 Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows power-user execution** with a disciplined **"Maintenance & Precision Mindset"**. 
-
 > *"Deterministic stability is built from the metal up. My foundation isn't built on corporate server rooms from day one, but on two decades of relentless, independent hardware optimization, thermal-electrical engineering, deep OS tuning, and root-cause analysis. Every line of automation and repository update I push today bridges that rigorous bare-metal mastery with modern cloud-native infrastructure."*
+Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision and operational rigor. 
+* **Current Stack Mastery:** Deep, production-ready mastery on **Windows** environments, with active daily expansion across **Linux (CLI/KVM)** and **macOS** administration.
+* **Near-Future Expansion:** Actively integrating cloud-native toolchains, container orchestration, and automated pipelines via a rigorous home lab setup and AI-accelerated learning.
 
 ---
 
 ## 📌 Clarifying the 20-Year Engineering Journey
 
-To maintain absolute professional transparency:
 * **The Independent Core (20+ Years):** My core evolution has been as an advanced hardware architect, high-end PC builder, and independent systems tuner. I specialized in deep component-level diagnostics, thermal management, overclocking, benchmark profiling, power stabilization, and comprehensive Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* in enterprise corporate server administration or large-scale Active Directory networking.
 * **The Professional Growth & Transition:** I bring this elite diagnostic rigor and "maintenance mindset" into professional IT operations, actively expanding my skill set through structured learning and hands-on execution into Linux administration, containerization, networking, version control, and Infrastructure as Code.
 
