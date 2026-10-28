@@ -40,6 +40,7 @@ B. V3 Enterprise Online Double-Conversion UPS Selection:
  • Option B: TED Electric Rackmount 3000VA / 2700W (2U) — True Online Double-Conversion providing massive power headroom. Running a 20–700W home lab load results in a 7–25% utilization rate, maximizing battery lifespan and heat dissipation.
 
 1.3 Sequential Protection Chains (V1 ──> V2 ──> V3)
+
 🔴 V1 Legacy Chain:
  [Unstable Grid] ──> [Re-Worked Modern Electrical Panel + Panasonic VIKO Sockets] ──> [External Surge Protector] ──> [TED 2100SVC Servo AVR] ──> [CyberPower UPS] ──> [End-Devices]
 
