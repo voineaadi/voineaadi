@@ -11,9 +11,11 @@
 * **Professional Identity & Striving:**  Platform-agnostic Systems Engineer bridging 20+ years of deep low-level hardware diagnostics, custom high-performance PC architecture, and independent IT consulting with enterprise IT operations (Accenture, Genpact, NonStop Consulting). While core production-ready mastery is firmly anchored on Windows 10/11 Enterprise, active daily operations span Ubuntu Linux CLI, macOS 15+ Apple Silicon, Dual-Boot architectures, and Hyper-V virtualization, actively expanding toward cloud-native DevOps/SRE and MLOps toolchains.
 * **Maintenance & Precision Mindset:**  Governed by a deterministic philosophy:  *Deterministic infrastructure is the ultimate leverage.*  Operates under strict Zero-Trust security postures, standard/admin privilege separation (UAC, least-privilege gpedit.msc, sudoers), 24-step DISM/SFC servicing recovery, and a 100% unblemished 20-year BIOS/UEFI update track record enforced via source checksum validation, dual-revision audits, AVR power stabilization, and pre-flash display redundancy.
 | Stage & Timeline | Technical Focus & Domain | Core Objective & Deliverable |
-| ------ | ------ | ------ |
+
 | **Stage 1 (Current / 2026)** | Core Systems Engineering & Hardening | Bare-metal stability, OS debloating, security hardening, firmware reliability, and automated provisioning. |
+
 | **Stage 2 (Mid-Term / 2–4 Years)** | Infrastructure Automation & SRE | Production-grade containerization (Docker, k3s/Kubernetes), CI/CD pipelines, robust telemetry (Prometheus/Grafana), and Infrastructure as Code (Terraform/Ansible). |
+
 | **Stage 3 (Long-Term / 4–7+ Years)** | Platform Engineering & Architecture | Multi-cluster orchestration, zero-trust security architectures, self-healing resilient cloud/hybrid environments, and high-availability governance. |
 
 --------------------------------------------------------------------------------
