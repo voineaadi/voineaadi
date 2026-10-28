@@ -78,18 +78,23 @@ Master Megaticket ID: AI-MODERN-SYSINT-2026-10-28-HOMELAB-01.V2.NotebookLM.Lin.M
 • Task 1: Allocate Sandbox Resource Boundary
    Ticket ID: 1.AI-MODERN-SYSINT-2026-10-28-STRG-01.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Reserve 300 GB on Laptop 2 drive for VM disk pool and container storage. Prepare bootable USB fallback drive for partition protection.
+
 • Task 2: Initialize Hypervisor Core & Native Container Runtime
    Ticket ID: 2.AI-MODERN-SYSINT-2026-10-28-HYPER-02.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Provision KVM (qemu-kvm, libvirt, virt-manager) and native Docker/K3s runtime environment on Ubuntu Linux host (EP-LIN-01).
+
 • Task 3: Provision Windows Server Evaluation Node
    Ticket ID: 3.AI-MODERN-SYSINT-2026-10-28-SYSINT-03.V2.Local.Sandbox.Win.Manual
    Technical Scope: Deploy VM-SYSINT-WIN-01 inside KVM. Maintain slmgr /rearm tracking log extending trial clock up to 6 cycles.
+
 • Task 4: Deploy Cybersecurity Hardening Baseline Policy (Per-Device)
    Ticket ID: 4.AI-MODERN-SYSINT-2026-10-28-CYBER-04.V2.Local.Sandbox.Multi.Manual
    Technical Scope: Manually apply cybersecurity baseline hardening on each physical endpoint and VM before network integration (Zero Trust per-device policy).
+
 • Task 5: Deploy Secure Mesh Networking via Tailscale Integration
    Ticket ID: 5.AI-MODERN-SYSINT-2026-10-28-MESH-05.V2.Local.Sandbox.Multi.Manual
    Technical Scope: Install and authenticate Tailscale client on each hardened device. Configure Tailnet, MagicDNS, and ACLs for encrypted peer-to-peer interconnectivity.
+
 • Task 6: Infrastructure Automation & Configuration Management via Ansible
    Ticket ID: 6.AI-MODERN-SYSINT-2026-10-28-ANSIBLE-06.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Deploy Ansible on EP-LIN-01. Configure inventory over Tailscale 100.x.x.x IPs and execute Day-2 configuration management playbooks.
