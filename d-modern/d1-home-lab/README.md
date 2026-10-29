@@ -12,7 +12,9 @@ Master Baseline Metadata:
 The Power Resilience Architecture resolves electrical grid instability, floating neutral hazards, and high-voltage transient spikes. It establishes a multi-stage conditioning chain ensuring 100% uptime, zero hardware degradation, and zero component conflict across three distinct evolutionary phases:
 
 • V1 — Legacy Baseline (Inherited Setup): A preliminary setup featuring a Re-Worked Modern Electrical Panel with Panasonic VIKO Sockets, feeding an External Surge Protector, a TED 2100SVC Servomotor Stabilizer, and an aging Line-Interactive CyberPower UPS. While offering basic spike absorption, it lacks active microsecond voltage relay protection against severe floating neutrals.
+
 • V2 — Current Stack (Romania Temporary Residence): A highly effective single-phase protection stack tailored for unstable countryside grids without main panel modification. Electricity flows from the wall outlet through a ZUBR R116Y TrueRMS digital relay (0.04s emergency cutoff), an External Surge Protector, a Brennenstuhl Premium-Line OVP (26,000A EMI/RFI noise suppression), a TED 2100SVC Servo AVR, a CyberPower CP1500EPFCLCD Pure Sine Wave UPS, and a Passive Resilience Layer (20–700W load profile).
+
 • V3 — Enterprise Target (Netherlands Permanent Residence): Represents the full datacenter-grade infrastructure upgrade. The physical and electrical lineage originates from the stable utility grid and feeds directly into a main distribution wall panel featuring a DIN-Rail ZUBR D2 digital voltage relay (providing whole-house millisecond disconnects), followed by Type 1/2 Surge Protection Devices (SPD) for lightning/inductive transient absorption, and Wall Panel Thermal-Magnetic Breakers for primary circuit overcurrent/short-circuit protection. Power is routed through dedicated in-wall 2.5mm² copper wiring to high-grade industrial outlets (Panasonic / VIKO), leading to a secondary point-of-use ZUBR R116Y local relay, external surge protector, Brennenstuhl Premium-Line OVP (26,000A EMI/RFI noise suppression), TED 2100SVC servomotor AVR, and a VFI Online Double-Conversion Uninterruptible Power Supply (0ms transfer time), ensuring 100% continuous power integrity for the Enterprise Home Lab.
 
 Feature / Metric | V1 — Legacy Baseline | V2 — Romania Stack | V3 — Netherlands Target
@@ -27,18 +29,24 @@ UPS Topology & Transfer Time | Line-Interactive (Degraded Battery, 4–10ms) | C
 Load Profile & Headroom | Unmanaged Load | Passive 20–700W (Low Thermal Stress) | Passive 20–700W on 1500–2700W UPS (7–25% Utilization)
 
 1.2 Technical Validation & Electrical Engineering Principles
+
 A. Zero Component Conflict ("MOV-on-MOV" Safety Proof):
+
  A critical engineering validation of the V2 and V3 power chains is the elimination of dangerous MOV series conflicts. The ZUBR R116Y and ZUBR D2 relays operate strictly as digital voltage monitoring relays utilizing TrueRMS microprocessors to trigger a millisecond hard disconnect; they contain no Metal Oxide Varistors (MOVs). The Brennenstuhl Premium-Line OVP acts as an industrial noise/OVP filter providing 3-way protection with 26,000A clamping capacity. The Wall Panel Thermal-Magnetic Breakers provide bimetallic and electromagnetic arc suppression without MOV overlap. Consequently, each stage operates in a distinct functional domain, avoiding cascading varistor thermal runaway.
+
 B. V3 Enterprise Online Double-Conversion UPS Selection:
  For the permanent V3 Netherlands deployment, two professional online double-conversion (VFI) UPS options are validated:
  • Option A: PowerWalker VFI 1500 ICT IoT — True Online Double-Conversion (0ms transfer) with integrated IoT/network telemetry card for real-time monitoring via Prometheus/Grafana.
  • Option B: TED Electric Rackmount 3000VA / 2700W (2U) — True Online Double-Conversion providing massive power headroom. Running a 20–700W home lab load results in a 7–25% utilization rate, maximizing battery lifespan and heat dissipation.
 
 1.3 Sequential Protection Chains (V1 ──> V2 ──> V3)
+
 🔴 V1 Legacy Chain:
  [Unstable Grid] ──> [Re-Worked Modern Electrical Panel + Panasonic VIKO Sockets] ──> [External Surge Protector] ──> [TED 2100SVC Servo AVR] ──> [CyberPower UPS] ──> [End-Devices]
+
 🟡 V2 Romania Chain:
  [Unstable Countryside Grid] ──> [ZUBR R116Y Relay (0.04s Cutoff)] ──> [External Surge Protector] ──> [Brennenstuhl OVP (26,000A)] ──> [TED 2100SVC Servo AVR] ──> [CyberPower UPS] ──> [Passive Resilience Layer (20–700W)] ──> [Protected Lab Endpoints]
+
 🟢 V3 Netherlands Enterprise Chain:
  [Utility Grid] ──> [DIN-Rail ZUBR D2] ──> [Type 1/2 SPD] ──> [Wall Panel Thermal-Magnetic Breakers] ──> [In-Wall Copper (2.5mm²)] ──> [Industrial Outlets] ──> [ZUBR R116Y Local Relay] ──> [External Surge Protector] ──> [Brennenstuhl OVP] ──> [TED 2100SVC Servo AVR] ──> [VFI Online UPS] ──> [Enterprise Home Lab]
 
@@ -78,18 +86,23 @@ Master Megaticket ID: AI-MODERN-SYSINT-2026-10-28-HOMELAB-01.V2.NotebookLM.Lin.M
 • Task 1: Allocate Sandbox Resource Boundary
    Ticket ID: 1.AI-MODERN-SYSINT-2026-10-28-STRG-01.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Reserve 300 GB on Laptop 2 drive for VM disk pool and container storage. Prepare bootable USB fallback drive for partition protection.
+
 • Task 2: Initialize Hypervisor Core & Native Container Runtime
    Ticket ID: 2.AI-MODERN-SYSINT-2026-10-28-HYPER-02.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Provision KVM (qemu-kvm, libvirt, virt-manager) and native Docker/K3s runtime environment on Ubuntu Linux host (EP-LIN-01).
+
 • Task 3: Provision Windows Server Evaluation Node
    Ticket ID: 3.AI-MODERN-SYSINT-2026-10-28-SYSINT-03.V2.Local.Sandbox.Win.Manual
    Technical Scope: Deploy VM-SYSINT-WIN-01 inside KVM. Maintain slmgr /rearm tracking log extending trial clock up to 6 cycles.
+
 • Task 4: Deploy Cybersecurity Hardening Baseline Policy (Per-Device)
    Ticket ID: 4.AI-MODERN-SYSINT-2026-10-28-CYBER-04.V2.Local.Sandbox.Multi.Manual
    Technical Scope: Manually apply cybersecurity baseline hardening on each physical endpoint and VM before network integration (Zero Trust per-device policy).
+
 • Task 5: Deploy Secure Mesh Networking via Tailscale Integration
    Ticket ID: 5.AI-MODERN-SYSINT-2026-10-28-MESH-05.V2.Local.Sandbox.Multi.Manual
    Technical Scope: Install and authenticate Tailscale client on each hardened device. Configure Tailnet, MagicDNS, and ACLs for encrypted peer-to-peer interconnectivity.
+
 • Task 6: Infrastructure Automation & Configuration Management via Ansible
    Ticket ID: 6.AI-MODERN-SYSINT-2026-10-28-ANSIBLE-06.V2.Local.Sandbox.Lin.Manual
    Technical Scope: Deploy Ansible on EP-LIN-01. Configure inventory over Tailscale 100.x.x.x IPs and execute Day-2 configuration management playbooks.
