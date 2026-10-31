@@ -1,22 +1,22 @@
 # 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA | Systems Engineer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)  
-**Location:** Romania ➔ Eindhoven, Netherlands *(EU Work Authorization Ready | BSN, DigiD & Bank Account Established)* | **Platform-Agnostic Systems Engineering**
+**Location:** Romania ➔ Eindhoven, Netherlands *(EU Work Authorization Ready | BSN, DigiD & Bank Account Established)* | 
 
 ---
 
 ## 🎯 Professional Identity & Vision
 
-Systems & Hardware Specialist combining **20+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows execution** with a disciplined **"Maintenance & Precision Mindset"**. Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision.
+Systems & Hardware Specialist combining **10+ years of deep independent diagnostics, high-end PC architecture, and advanced Windows execution** with a disciplined **"Maintenance & Precision Mindset"**. Striving to become truly **platform-agnostic**, I build resilient infrastructure grounded in deterministic precision.
 
 * **Current Stack Mastery:** Deep production-ready mastery on **Windows**, with active daily expansion across **Linux (CLI/KVM)** and **macOS**, orchestrated via cross-platform development environments.
 * **Near-Future Expansion:** Integrating cloud-native toolchains, container orchestration, automated pipelines, and **Docs-as-Code** documentation workflows via a rigorous home lab setup.
 
 ---
 
-## 📌 The 20-Year Engineering Journey
+## 📌 The 10+ Year Engineering Journey
 
-* **The Independent Core (20+ Years):** Advanced hardware architect and systems tuner specializing in component diagnostics, thermal management, power stabilization, and Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* large-scale corporate Active Directory networking.
+* **The Independent Core (10+ Years):** Advanced hardware architect and systems tuner specializing in component diagnostics, thermal management, power stabilization, and Windows OS internal debugging (Event Viewer, Registry, Sysinternals, WinDbg) — *not* large-scale corporate Active Directory networking.
 * **The Professional Growth & Transition:** Bringing elite diagnostic rigor into IT operations, actively expanding into Linux administration, containerization, networking, **Git version control**, and structured technical documentation.
 
 ---
@@ -37,7 +37,7 @@ Systems & Hardware Specialist combining **20+ years of deep independent diagnost
 
 ## 📂 Hardware Mastery & Firmware Longevity
 
-* **Domain Expertise:** 20+ years in technical diagnostics, custom tuning, and system restoration.
+* **Domain Expertise:** 10+ years in technical diagnostics, custom tuning, and system restoration.
 * **Firmware Milestone:** 100% success rate across mission-critical BIOS/UEFI updates.
 * **Deployment Protocol:** *Source Validation ➔ Documentation & Rev Audits ➔ Display Redundancy ➔ Zero-Exception Execution Integrity.*
 
