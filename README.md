@@ -1,4 +1,4 @@
-# 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA | Systems Engineer
+# 🔧 TECHNICAL PORTFOLIO | ADRIAN FLORENTIN VOINEA
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-florentin-voinea/) | 🔗 [GitHub](https://github.com/voineaadi)  
 **Location:** Romania ➔ Eindhoven, Netherlands *(EU Work Authorization Ready | BSN, DigiD & Bank Account Established)* | 
